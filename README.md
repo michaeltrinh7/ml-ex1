@@ -1,2 +1,2 @@
-# ml-ex1
-Machine learning exercise 1 implemented in Rust
+# ml-exercise
+Machine learning exercises implemented in Rust
